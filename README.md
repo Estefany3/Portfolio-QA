@@ -30,7 +30,7 @@ Este portafolio lo armé con la intención de mostrar algunos de los proyectos q
 
 ## 📁 Proyectos (en construcción)
 
-Voy a ir subiendo proyectos en repositorios separados, pero todos van a estar listados acá:
+Voy a ir subiendo proyectos en repositorios separados, pero todos van a estar listados aquí:
 
 - [ ] Automatización de login con Playwright
 - [ ] Pruebas automatizadas de un carrito de compras
