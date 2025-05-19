@@ -32,7 +32,7 @@ Este portafolio lo armé con la intención de mostrar algunos de los proyectos q
 
 Voy a ir subiendo proyectos en repositorios separados, pero todos van a estar listados aquí:
 
-- [ ] Automatización de login con Playwright
+- [Automatización de login con Playwright](https://github.com/Estefany3/login-test-playwright)
 - [ ] Pruebas automatizadas de un carrito de compras
 - [ ] Testing de APIs con Postman
 - [ ] Documentación tipo test plan, casos de prueba y reporte de bugs
