@@ -14,7 +14,7 @@ Este portafolio lo armé con la intención de mostrar algunos de los proyectos q
 - HTML, CSS
 - SQL (consultas básicas)
 - Postman
-- Git y GitHub
+- Git/GitHub
 - Visual Studio Code
 
 ---
