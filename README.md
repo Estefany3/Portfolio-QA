@@ -1,5 +1,5 @@
 # Portfolio-QA
-# 🧪 Portafolio de QA Automation
+# Portafolio de QA Automation
 
 ¡Hola! Soy Estefanie, estudiante de Desarrollo Web. Estoy interesada especialmente en el área de QA Automation. 
 
@@ -7,7 +7,7 @@ Este portafolio lo armé con la intención de mostrar algunos de los proyectos q
 
 ---
 
-## 🛠️ Herramientas y tecnologías que uso
+## Herramientas y tecnologías que uso
 
 - Playwright 
 - JavaScript y Python 
@@ -19,7 +19,7 @@ Este portafolio lo armé con la intención de mostrar algunos de los proyectos q
 
 ---
 
-## 📚 Formación y aprendizaje
+## Formación y aprendizaje
 
 - Actualmente estoy estudiando Desarrollo Web.
 - Hice el curso **CS50** de Harvard, que me ayudó a entender lo básico de programación.
@@ -28,7 +28,7 @@ Este portafolio lo armé con la intención de mostrar algunos de los proyectos q
 
 ---
 
-## 📁 Proyectos (en construcción)
+## Proyectos (en construcción)
 
 Voy a ir subiendo proyectos en repositorios separados, pero todos van a estar listados aquí:
 
@@ -40,7 +40,7 @@ Voy a ir subiendo proyectos en repositorios separados, pero todos van a estar li
 
 ---
 
-## 💬 Mis intereses
+## Mis intereses
 
 Estoy formándome para ser **QA Automation**.
 Todavía estoy aprendiendo, pero me gusta hacerlo con dedicación y con atención a los detalles. Me interesa poder trabajar en esta área, seguir aprendiendo y aplicar mis conocimientos en proyectos reales.
