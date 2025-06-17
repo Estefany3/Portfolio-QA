@@ -24,7 +24,7 @@ Este portafolio lo armé con la intención de mostrar algunos de los proyectos q
 - Actualmente estoy estudiando Desarrollo Web.
 - Hice el curso **CS50** de Harvard, que me ayudó a entender lo básico de programación.
 - Empecé un curso de **Playwright** para automatizar pruebas web.
-- También estoy aprendiendo sobre testing de APIs, buenas prácticas en QA, y cómo armar un portafolio que refleje mi progreso.
+- También estoy aprendiendo sobre testing de APIs, buenas prácticas en QA y cómo armar un portafolio que refleje mi progreso.
 
 ---
 
@@ -33,7 +33,7 @@ Este portafolio lo armé con la intención de mostrar algunos de los proyectos q
 Voy a ir subiendo proyectos en repositorios separados, pero todos van a estar listados aquí:
 
 - [Automatización de login con Playwright](https://github.com/Estefany3/login-test-playwright)
-- [Pruebas automatizadas de un carrito de compras](https://github.com/Estefany3/carrito-playwright).
+- [Pruebas automatizadas de un carrito de compras](https://github.com/Estefany3/carrito-playwright)
 - [ ] Testing de APIs con Postman
 - [ ] Documentación tipo test plan, casos de prueba y reporte de bugs
 - [ ] Integración de pruebas con GitHub Actions
