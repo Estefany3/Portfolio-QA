@@ -3,7 +3,7 @@
 
 ¡Hola! Soy Estefanie, estudiante de Desarrollo Web. Estoy interesada especialmente en el área de QA Automation. 
 
-Este portafolio lo armé con la intención de mostrar algunos de los proyectos que voy realizando mientras estudio y practico automatización de pruebas. No es perfecto, pero refleja lo que sé hasta ahora y todo lo que estoy esforzándome por mejorar.
+Este portafolio tiene como objetivo mostrar algunos de los proyectos y prácticas que he realizado para fortalecer mis habilidades en testing manual y automatizado.
 
 ---
 
@@ -11,10 +11,11 @@ Este portafolio lo armé con la intención de mostrar algunos de los proyectos q
 
 - Playwright 
 - JavaScript y Python 
-- HTML, CSS
 - SQL (consultas básicas)
+- Jira
 - Postman
 - Git/GitHub
+- HTML, CSS
 - Visual Studio Code
 
 ---
@@ -22,9 +23,9 @@ Este portafolio lo armé con la intención de mostrar algunos de los proyectos q
 ## Formación y aprendizaje
 
 - Actualmente estoy estudiando Desarrollo Web.
-- Hice el curso **CS50** de Harvard, que me ayudó a entender lo básico de programación.
-- Empecé un curso de **Playwright** para automatizar pruebas web.
-- También estoy aprendiendo sobre testing de APIs, buenas prácticas en QA y cómo armar un portafolio que refleje mi progreso.
+- Curso **CS50** (Harvard): Fundamentos de programación y pensamiento computacional.
+- Curso de **Playwright** (Udemy): Para automatizar pruebas web.
+- Formación continua y autodidacta en QA Manual/Automatizado.
 
 ---
 
@@ -40,9 +41,4 @@ Voy a ir subiendo proyectos en repositorios separados, pero todos van a estar li
 
 ---
 
-## Mis intereses
-
-Estoy formándome para ser **QA Automation**.
-Todavía estoy aprendiendo, pero me gusta hacerlo con dedicación y con atención a los detalles. Me interesa poder trabajar en esta área, seguir aprendiendo y aplicar mis conocimientos en proyectos reales.
-
-Gracias por pasar por mi portafolio :)
+Gracias por pasar por mi portafolio. :)
